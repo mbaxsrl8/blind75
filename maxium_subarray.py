@@ -4,9 +4,9 @@ from typing import List
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         i = 0
+        j = i
         res = nums[0]
         while i < len(nums):
-            j = i
             prefix = 0
             while j < len(nums):
                 if prefix < 0:
