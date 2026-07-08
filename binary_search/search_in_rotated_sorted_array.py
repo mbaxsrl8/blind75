@@ -5,8 +5,8 @@ class Solution:
     def search(self, nums: List[int], target: int) -> int:
         l = 0
         r = len(nums) - 1
-        m = (l + r) // 2
         while r >= l:
+            m = (r - l) // 2 + l
             val = nums[m]
             if val == target:
                return m
@@ -17,15 +17,13 @@ class Solution:
                 if target >= val or target < nums[l]:
                     l = m + 1
                 else:
-                    r = m
+                    r = m - 1
             else:
                 # left side has the pivot point
                 if target < val or target > nums[r]:
-                    r = m
+                    r = m - 1
                 else:
                     l = m + 1
-            m = (r - l) // 2 + l
-            
             
         return -1
                
