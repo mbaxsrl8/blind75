@@ -18,12 +18,17 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - `climbing_stairs.py`
 - `counting_bits.py`
+- `coin_change.py`
 - `maximum_subarray.py`
 - `maximum_product_subarray.py`
 
 ## fibonacci
 
 - `climbing_stairs.py`
+
+## coin-change
+
+- `coin_change.py`
 
 ## greedy
 
