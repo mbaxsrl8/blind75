@@ -20,10 +20,12 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## bit-manipulation
 
+- `counting_bits.py`
 - `number_of_1_bit.py`
 
 ## dynamic-programming
 
+- `counting_bits.py`
 - `maximum_subarray.py`
 - `maximum_product_subarray.py`
 
