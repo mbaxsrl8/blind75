@@ -1,3 +1,5 @@
+# Tags: bit-manipulation
+
 class Solution:
     # def hammingWeight(self, n: int) -> int:
     #     res = 0
