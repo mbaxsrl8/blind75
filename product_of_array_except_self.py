@@ -1,4 +1,4 @@
-# Tags: array, prefix-suffix
+# Tags: prefix-suffix
 
 from typing import List
 

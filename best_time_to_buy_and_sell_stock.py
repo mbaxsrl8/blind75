@@ -1,4 +1,4 @@
-# Tags: array, two-pointers, sliding-window
+# Tags: two-pointers, sliding-window
 
 from typing import List
 

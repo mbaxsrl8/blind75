@@ -1,4 +1,4 @@
-# Tags: array, two-pointers, sorting
+# Tags: two-pointers, sorting
 
 from typing import List
 

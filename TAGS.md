@@ -3,7 +3,7 @@
 Use the first comment line in each problem file for searchable tags:
 
 ```python
-# Tags: array, two-pointers, binary-search
+# Tags: two-pointers, binary-search
 ```
 
 Guidelines:
@@ -16,8 +16,8 @@ Guidelines:
 
 Examples:
 
-- `array, hash-map`
-- `array, two-pointers, sorting`
+- `hash-map`
+- `two-pointers, sorting`
 - `binary-search, rotated-array`
 
 See also: `PROBLEMS_BY_TAG.md` for a cross-reference index.

@@ -1,4 +1,4 @@
-# Tags: array, hash-set, sorting
+# Tags: hash-set, sorting
 
 from typing import List
 

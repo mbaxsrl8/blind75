@@ -1,4 +1,4 @@
-# Tags: array, dynamic-programming
+# Tags: dynamic-programming
 
 from typing import List
 

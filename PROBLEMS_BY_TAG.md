@@ -2,18 +2,6 @@
 
 This index is the main organizer for the flat repo layout. Each problem can appear under multiple tags.
 
-## array
-
-- `3_sum.py`
-- `best_time_to_buy_and_sell_stock.py`
-- `contains_duplicate.py`
-- `maximum_subarray.py`
-- `product_of_array_except_self.py`
-- `two_sum.py`
-- `container_with_most_water.py`
-- `maximum_product_subarray.py`
-- `missing_number.py`
-
 ## binary-search
 
 - `find_minimum_in_rotated_sorted_array.py`
@@ -28,9 +16,14 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- `climbing_stairs.py`
 - `counting_bits.py`
 - `maximum_subarray.py`
 - `maximum_product_subarray.py`
+
+## fibonacci
+
+- `climbing_stairs.py`
 
 ## greedy
 

@@ -1,4 +1,4 @@
-# Tags: array, bit-manipulation
+# Tags: bit-manipulation
 
 from typing import List
 

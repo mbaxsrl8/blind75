@@ -1,4 +1,4 @@
-# Tags: array, hash-map
+# Tags: hash-map
 
 from typing import List
 

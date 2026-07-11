@@ -1,4 +1,4 @@
-# Tags: array, dynamic-programming, kadane
+# Tags: dynamic-programming, kadane
 
 from typing import List
 

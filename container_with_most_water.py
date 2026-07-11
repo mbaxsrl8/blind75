@@ -1,4 +1,4 @@
-# Tags: array, two-pointers, greedy
+# Tags: two-pointers, greedy
 
 from typing import List
 
