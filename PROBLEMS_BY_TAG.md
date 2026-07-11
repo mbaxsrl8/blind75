@@ -12,6 +12,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `two_sum.py`
 - `container_with_most_water.py`
 - `maximum_product_subarray.py`
+- `missing_number.py`
 
 ## binary-search
 
@@ -21,7 +22,9 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## bit-manipulation
 
 - `counting_bits.py`
+- `missing_number.py`
 - `number_of_1_bit.py`
+- `reverse_bits.py`
 
 ## dynamic-programming
 
