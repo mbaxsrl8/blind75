@@ -17,6 +17,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## string
 
 - `longest_common_subsequence.py`
+- `word_break.py`
 
 ## dynamic-programming
 
@@ -27,6 +28,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `maximum_subarray.py`
 - `maximum_product_subarray.py`
 - `longest_common_subsequence.py`
+- `word_break.py`
 
 ## greedy
 
