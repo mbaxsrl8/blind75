@@ -1,4 +1,4 @@
-# Tags: dynamic-programming, fibonacci
+# Tags: dynamic-programming
 
 class Solution:
     def climbStairs(self, n: int) -> int:

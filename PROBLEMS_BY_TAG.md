@@ -14,6 +14,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `number_of_1_bit.py`
 - `reverse_bits.py`
 
+## string
+
+- `longest_common_subsequence.py`
+
 ## dynamic-programming
 
 - `climbing_stairs.py`
@@ -22,18 +26,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `longest_increasing_subsequence.py`
 - `maximum_subarray.py`
 - `maximum_product_subarray.py`
-
-## fibonacci
-
-- `climbing_stairs.py`
-
-## coin-change
-
-- `coin_change.py`
-
-## longest-increasing-subsequence
-
-- `longest_increasing_subsequence.py`
+- `longest_common_subsequence.py`
 
 ## greedy
 
@@ -46,10 +39,6 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## hash-set
 
 - `contains_duplicate.py`
-
-## kadane
-
-- `maximum_subarray.py`
 
 ## prefix-suffix
 

@@ -1,4 +1,4 @@
-# Tags: dynamic-programming, kadane
+# Tags: dynamic-programming
 
 from typing import List
 

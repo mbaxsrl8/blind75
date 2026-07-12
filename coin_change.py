@@ -1,4 +1,4 @@
-# Tags: dynamic-programming, coin-change
+# Tags: dynamic-programming
 
 from typing import List
 
