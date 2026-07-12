@@ -19,6 +19,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `climbing_stairs.py`
 - `counting_bits.py`
 - `coin_change.py`
+- `longest_increasing_subsequence.py`
 - `maximum_subarray.py`
 - `maximum_product_subarray.py`
 
@@ -29,6 +30,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## coin-change
 
 - `coin_change.py`
+
+## longest-increasing-subsequence
+
+- `longest_increasing_subsequence.py`
 
 ## greedy
 
