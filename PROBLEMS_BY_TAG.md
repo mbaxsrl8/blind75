@@ -18,6 +18,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - `longest_common_subsequence.py`
 - `word_break.py`
+- `valid_anagram.py`
 
 ## dynamic-programming
 
@@ -37,6 +38,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## hash-map
 
 - `two_sum.py`
+- `valid_anagram.py`
 
 ## hash-set
 
@@ -59,6 +61,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - `3_sum.py`
 - `contains_duplicate.py`
+- `valid_anagram.py`
 
 ## two-pointers
 
