@@ -41,6 +41,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `two_sum.py`
 - `valid_anagram.py`
 - `group_anagram.py`
+- `top_k_frequent_elements.py`
 
 ## hash-set
 
@@ -65,6 +66,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `contains_duplicate.py`
 - `valid_anagram.py`
 - `group_anagram.py`
+- `top_k_frequent_elements.py`
 
 ## two-pointers
 
