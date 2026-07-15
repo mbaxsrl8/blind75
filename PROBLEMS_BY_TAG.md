@@ -20,6 +20,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `word_break.py`
 - `valid_anagram.py`
 - `group_anagram.py`
+- `encode_and_decode_strings.py`
 
 ## dynamic-programming
 
@@ -73,3 +74,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `3_sum.py`
 - `best_time_to_buy_and_sell_stock.py`
 - `container_with_most_water.py`
+
+## design
+
+- `encode_and_decode_strings.py`
