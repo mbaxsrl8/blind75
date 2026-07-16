@@ -46,6 +46,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `top_k_frequent_elements.py`
 - `longest_consective_sequence.py`
 - `contains_duplicate.py`
+- `longest_substring_without_repeating.py`
 
 ## prefix-suffix
 
@@ -60,6 +61,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - `best_time_to_buy_and_sell_stock.py`
 - `valid_palindrome.py`
+- `longest_substring_without_repeating.py`
 
 ## sorting
 
