@@ -19,6 +19,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `longest_common_subsequence.py`
 - `word_break.py`
 - `valid_anagram.py`
+- `valid_palindrome.py`
 - `group_anagram.py`
 - `encode_and_decode_strings.py`
 
@@ -58,6 +59,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## sliding-window
 
 - `best_time_to_buy_and_sell_stock.py`
+- `valid_palindrome.py`
 
 ## sorting
 
