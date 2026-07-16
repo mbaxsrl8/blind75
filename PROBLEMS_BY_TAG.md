@@ -43,9 +43,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `valid_anagram.py`
 - `group_anagram.py`
 - `top_k_frequent_elements.py`
-
-## hash-set
-
+- `longest_consective_sequence.py`
 - `contains_duplicate.py`
 
 ## prefix-suffix
