@@ -20,6 +20,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `word_break.py`
 - `valid_anagram.py`
 - `valid_palindrome.py`
+- `longest_repeating_character_replacement.py`
 - `group_anagram.py`
 - `encode_and_decode_strings.py`
 
@@ -47,6 +48,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `longest_consective_sequence.py`
 - `contains_duplicate.py`
 - `longest_substring_without_repeating.py`
+- `longest_repeating_character_replacement.py`
 
 ## prefix-suffix
 
@@ -62,6 +64,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - `best_time_to_buy_and_sell_stock.py`
 - `valid_palindrome.py`
 - `longest_substring_without_repeating.py`
+- `longest_repeating_character_replacement.py`
 
 ## sorting
 
