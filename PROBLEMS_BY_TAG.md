@@ -47,6 +47,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## linked-list
 
+- [`merge_two_sorted_linked_lists.py`](./merge_two_sorted_linked_lists.py)
 - [`revert_linked_list.py`](./revert_linked_list.py)
 
 ## prefix-suffix
