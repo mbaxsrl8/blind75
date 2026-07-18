@@ -47,6 +47,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## linked-list
 
+- [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`merge_two_sorted_linked_lists.py`](./merge_two_sorted_linked_lists.py)
 - [`revert_linked_list.py`](./revert_linked_list.py)
 
@@ -99,3 +100,4 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`3_sum.py`](./3_sum.py)
 - [`best_time_to_buy_and_sell_stock.py`](./best_time_to_buy_and_sell_stock.py)
 - [`container_with_most_water.py`](./container_with_most_water.py)
+- [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
