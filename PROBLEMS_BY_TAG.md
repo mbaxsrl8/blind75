@@ -45,6 +45,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`two_sum.py`](./two_sum.py)
 - [`valid_anagram.py`](./valid_anagram.py)
 
+## linked-list
+
+- [`revert_linked_list.py`](./revert_linked_list.py)
+
 ## prefix-suffix
 
 - [`product_of_array_except_self.py`](./product_of_array_except_self.py)
@@ -53,6 +57,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`find_minimum_in_rotated_sorted_array.py`](./find_minimum_in_rotated_sorted_array.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
+
+## recursion
+
+- [`revert_linked_list.py`](./revert_linked_list.py)
 
 ## sliding-window
 
