@@ -20,4 +20,4 @@ Examples:
 - `two-pointers, sorting`
 - `binary-search, rotated-array`
 
-See also: `PROBLEMS_BY_TAG.md` for a cross-reference index.
+See also: `README.md` for a cross-reference index.
