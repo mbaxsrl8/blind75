@@ -7,6 +7,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`find_minimum_in_rotated_sorted_array.py`](./find_minimum_in_rotated_sorted_array.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 
+## binary-search-tree
+
+- [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
+
 ## bit-manipulation
 
 - [`counting_bits.py`](./counting_bits.py)
@@ -121,6 +125,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## tree
 
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
+- [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`same_binary_tree.py`](./same_binary_tree.py)
 - [`sub_tree_of_another_tree.py`](./sub_tree_of_another_tree.py)

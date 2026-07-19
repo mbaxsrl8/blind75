@@ -46,3 +46,14 @@ def convertListToTree(list: List) -> TreeNode:
         new_level = []
     
     return root
+
+def getNodeFromTree(root: TreeNode, val: int) -> TreeNode:
+    if root is None:
+        return None
+    if root.val == val:
+        return root
+    left =  getNodeFromTree(root.left, val)
+    if left:
+        return left
+    else:
+        return getNodeFromTree(root.right, val)
