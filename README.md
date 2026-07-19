@@ -50,6 +50,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`merge_two_sorted_linked_lists.py`](./merge_two_sorted_linked_lists.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
+- [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
 - [`revert_linked_list.py`](./revert_linked_list.py)
 
 ## prefix-suffix
@@ -103,3 +104,4 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
+- [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
