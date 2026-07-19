@@ -18,6 +18,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 
+## depth-first-search
+
+- [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
+
 ## dynamic-programming
 
 - [`climbing_stairs.py`](./climbing_stairs.py)
@@ -115,3 +119,4 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## tree
 
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
+- [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
