@@ -69,6 +69,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## recursion
 
+- [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`revert_linked_list.py`](./revert_linked_list.py)
 
 ## sliding-window
@@ -110,3 +111,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
 - [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
+
+## tree
+
+- [`invert_binary_tree.py`](./invert_binary_tree.py)
