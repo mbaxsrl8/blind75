@@ -18,6 +18,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`number_of_1_bit.py`](./number_of_1_bit.py)
 - [`reverse_bits.py`](./reverse_bits.py)
 
+## breadth-first-search
+
+- [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
+
 ## design
 
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
@@ -124,6 +128,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## tree
 
+- [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
