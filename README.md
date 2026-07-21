@@ -10,6 +10,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## binary-search-tree
 
 - [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
+- [`valid_binary_search_tree.py`](./valid_binary_search_tree.py)
 
 ## bit-manipulation
 
@@ -134,3 +135,4 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`same_binary_tree.py`](./same_binary_tree.py)
 - [`sub_tree_of_another_tree.py`](./sub_tree_of_another_tree.py)
+- [`valid_binary_search_tree.py`](./valid_binary_search_tree.py)
