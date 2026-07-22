@@ -105,6 +105,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## stack
 
+- [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
 - [`valid_parentheses.py`](./valid_parentheses.py)
 
 ## string
@@ -136,3 +137,4 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`same_binary_tree.py`](./same_binary_tree.py)
 - [`sub_tree_of_another_tree.py`](./sub_tree_of_another_tree.py)
 - [`valid_binary_search_tree.py`](./valid_binary_search_tree.py)
+- [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
