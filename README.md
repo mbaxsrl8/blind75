@@ -31,6 +31,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 
+## divide-and-conquer
+
+- [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
+
 ## dynamic-programming
 
 - [`climbing_stairs.py`](./climbing_stairs.py)
@@ -82,6 +86,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## recursion
 
+- [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`same_binary_tree.py`](./same_binary_tree.py)
 - [`sub_tree_of_another_tree.py`](./sub_tree_of_another_tree.py)
@@ -131,6 +136,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## tree
 
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
+- [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
