@@ -31,6 +31,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## design
 
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
+- [`implement_trie.py`](./implement_trie.py)
 
 ## depth-first-search
 
@@ -64,6 +65,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`group_anagrams.py`](./group_anagrams.py)
+- [`implement_trie.py`](./implement_trie.py)
 - [`longest_consective_sequence.py`](./longest_consective_sequence.py)
 - [`longest_repeating_character_replacement.py`](./longest_repeating_character_replacement.py)
 - [`longest_substring_without_repeating.py`](./longest_substring_without_repeating.py)
@@ -129,6 +131,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`group_anagrams.py`](./group_anagrams.py)
+- [`implement_trie.py`](./implement_trie.py)
 - [`longest_common_subsequence.py`](./longest_common_subsequence.py)
 - [`longest_repeating_character_replacement.py`](./longest_repeating_character_replacement.py)
 - [`mininum_window_substring.py`](./mininum_window_substring.py)
