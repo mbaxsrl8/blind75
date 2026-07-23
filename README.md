@@ -2,6 +2,10 @@
 
 This index is the main organizer for the flat repo layout. Each problem can appear under multiple tags.
 
+## backtracking
+
+- [`combination_sum.py`](./combination_sum.py)
+
 ## binary-search
 
 - [`find_minimum_in_rotated_sorted_array.py`](./find_minimum_in_rotated_sorted_array.py)
@@ -86,6 +90,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## recursion
 
+- [`combination_sum.py`](./combination_sum.py)
 - [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`same_binary_tree.py`](./same_binary_tree.py)
@@ -103,6 +108,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## sorting
 
 - [`3_sum.py`](./3_sum.py)
+- [`combination_sum.py`](./combination_sum.py)
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`group_anagrams.py`](./group_anagrams.py)
 - [`top_k_frequent_elements.py`](./top_k_frequent_elements.py)
