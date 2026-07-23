@@ -5,6 +5,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## backtracking
 
 - [`combination_sum.py`](./combination_sum.py)
+- [`word_search.py`](./word_search.py)
 
 ## binary-search
 
@@ -34,6 +35,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## depth-first-search
 
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
+- [`word_search.py`](./word_search.py)
 
 ## divide-and-conquer
 
@@ -78,6 +80,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
 - [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
 - [`revert_linked_list.py`](./revert_linked_list.py)
+
+## matrix
+
+- [`word_search.py`](./word_search.py)
 
 ## prefix-suffix
 
@@ -128,6 +134,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`mininum_window_substring.py`](./mininum_window_substring.py)
 - [`valid_anagram.py`](./valid_anagram.py)
 - [`valid_parentheses.py`](./valid_parentheses.py)
+- [`word_search.py`](./word_search.py)
 - [`word_break.py`](./word_break.py)
 
 ## two-pointers
