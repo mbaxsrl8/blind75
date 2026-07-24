@@ -35,6 +35,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## depth-first-search
 
+- [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`word_search.py`](./word_search.py)
 
@@ -64,6 +65,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## hash-map
 
 - [`contains_duplicate.py`](./contains_duplicate.py)
+- [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`group_anagrams.py`](./group_anagrams.py)
 - [`implement_trie.py`](./implement_trie.py)
 - [`longest_consective_sequence.py`](./longest_consective_sequence.py)
@@ -160,3 +162,8 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`sub_tree_of_another_tree.py`](./sub_tree_of_another_tree.py)
 - [`valid_binary_search_tree.py`](./valid_binary_search_tree.py)
 - [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
+
+## trie
+
+- [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
+- [`implement_trie.py`](./implement_trie.py)
