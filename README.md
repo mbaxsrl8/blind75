@@ -27,6 +27,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## breadth-first-search
 
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
+- [`number_of_islands.py`](./number_of_islands.py)
 
 ## design
 
@@ -87,6 +88,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## matrix
 
+- [`number_of_islands.py`](./number_of_islands.py)
 - [`word_search.py`](./word_search.py)
 
 ## prefix-suffix
