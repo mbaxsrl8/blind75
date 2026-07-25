@@ -36,6 +36,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## depth-first-search
 
+- [`clone_graph.py`](./clone_graph.py)
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`word_search.py`](./word_search.py)
@@ -59,12 +60,17 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`container_with_most_water.py`](./container_with_most_water.py)
 
+## graph
+
+- [`clone_graph.py`](./clone_graph.py)
+
 ## heap
 
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
 
 ## hash-map
 
+- [`clone_graph.py`](./clone_graph.py)
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`group_anagrams.py`](./group_anagrams.py)
