@@ -39,6 +39,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`clone_graph.py`](./clone_graph.py)
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
+- [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`word_search.py`](./word_search.py)
 
 ## divide-and-conquer
@@ -95,6 +96,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## matrix
 
 - [`number_of_islands.py`](./number_of_islands.py)
+- [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`word_search.py`](./word_search.py)
 
 ## prefix-suffix
