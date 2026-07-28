@@ -37,6 +37,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## depth-first-search
 
 - [`clone_graph.py`](./clone_graph.py)
+- [`course_shcedule.py`](./course_shcedule.py)
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
@@ -64,6 +65,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## graph
 
 - [`clone_graph.py`](./clone_graph.py)
+- [`course_shcedule.py`](./course_shcedule.py)
 
 ## heap
 
