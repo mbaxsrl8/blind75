@@ -34,16 +34,16 @@ def convertListToTree(list: List) -> TreeNode:
         for node in level_nodes:
             if list[i]:
                 node.left = TreeNode(list[i])
+                new_level.append(node.left)
             i += 1
-            new_level.append(node.left)
             if i == len(list):
                 break
             if list[i]:
                 node.right = TreeNode(list[i])
+                new_level.append(node.right)
             i += 1
             if i == len(list):
                 break
-            new_level.append(node.right)
         level_nodes = new_level    
         new_level = []
     

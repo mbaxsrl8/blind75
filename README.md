@@ -50,6 +50,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
 - [`climbing_stairs.py`](./climbing_stairs.py)
 - [`coin_change.py`](./coin_change.py)
 - [`counting_bits.py`](./counting_bits.py)
@@ -168,6 +169,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## tree
 
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
+- [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
 - [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
