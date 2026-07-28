@@ -27,6 +27,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## breadth-first-search
 
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
+- [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`number_of_islands.py`](./number_of_islands.py)
 
 ## design
@@ -69,6 +70,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`clone_graph.py`](./clone_graph.py)
 - [`course_shcedule.py`](./course_shcedule.py)
 - [`graph_valid_tree.py`](./graph_valid_tree.py)
+- [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 
 ## heap
 
