@@ -1,6 +1,6 @@
-from typing import List
-
 # Tags: dfs, graph
+
+from typing import List
 
 # You are given an array prerequisites where prerequisites[i] = [a, b] indicates that you must take course b first if you want to take course a.
 
