@@ -55,6 +55,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`climbing_stairs.py`](./climbing_stairs.py)
 - [`coin_change.py`](./coin_change.py)
 - [`counting_bits.py`](./counting_bits.py)
+- [`house_robber.py`](./house_robber.py)
 - [`longest_common_subsequence.py`](./longest_common_subsequence.py)
 - [`longest_increasing_subsequence.py`](./longest_increasing_subsequence.py)
 - [`maximum_product_subarray.py`](./maximum_product_subarray.py)
