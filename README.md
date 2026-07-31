@@ -157,6 +157,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`longest_palindromic_substring.py`](./longest_palindromic_substring.py)
 - [`longest_repeating_character_replacement.py`](./longest_repeating_character_replacement.py)
 - [`mininum_window_substring.py`](./mininum_window_substring.py)
+- [`palindromic_substrings.py`](./palindromic_substrings.py)
 - [`valid_anagram.py`](./valid_anagram.py)
 - [`valid_parentheses.py`](./valid_parentheses.py)
 - [`word_search.py`](./word_search.py)
@@ -169,6 +170,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`longest_palindromic_substring.py`](./longest_palindromic_substring.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
+- [`palindromic_substrings.py`](./palindromic_substrings.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
 - [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
 
