@@ -55,6 +55,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`climbing_stairs.py`](./climbing_stairs.py)
 - [`coin_change.py`](./coin_change.py)
 - [`counting_bits.py`](./counting_bits.py)
+- [`decode_ways.py`](./decode_ways.py)
 - [`house_robber.py`](./house_robber.py)
 - [`house_robber_2.py`](./house_robber_2.py)
 - [`longest_common_subsequence.py`](./longest_common_subsequence.py)
@@ -150,6 +151,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## string
 
+- [`decode_ways.py`](./decode_ways.py)
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`group_anagrams.py`](./group_anagrams.py)
 - [`implement_trie.py`](./implement_trie.py)
