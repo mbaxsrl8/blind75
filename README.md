@@ -62,6 +62,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`longest_increasing_subsequence.py`](./longest_increasing_subsequence.py)
 - [`maximum_product_subarray.py`](./maximum_product_subarray.py)
 - [`maximum_subarray.py`](./maximum_subarray.py)
+- [`unique_paths.py`](./unique_paths.py)
 - [`word_break.py`](./word_break.py)
 
 ## greedy
@@ -107,6 +108,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
+- [`unique_paths.py`](./unique_paths.py)
 - [`word_search.py`](./word_search.py)
 
 ## prefix-suffix
