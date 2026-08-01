@@ -101,6 +101,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## intervals
 
 - [`insert_interval.py`](./insert_interval.py)
+- [`merge_intervals.py`](./merge_intervals.py)
 
 ## linked-list
 
