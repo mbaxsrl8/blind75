@@ -71,6 +71,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## greedy
 
 - [`container_with_most_water.py`](./container_with_most_water.py)
+- [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 
 ## graph
 
@@ -102,6 +103,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`insert_interval.py`](./insert_interval.py)
 - [`merge_intervals.py`](./merge_intervals.py)
+- [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 
 ## linked-list
 
@@ -151,6 +153,8 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`combination_sum.py`](./combination_sum.py)
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`group_anagrams.py`](./group_anagrams.py)
+- [`merge_intervals.py`](./merge_intervals.py)
+- [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 - [`top_k_frequent_elements.py`](./top_k_frequent_elements.py)
 - [`valid_anagram.py`](./valid_anagram.py)
 
