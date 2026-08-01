@@ -102,6 +102,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## intervals
 
 - [`insert_interval.py`](./insert_interval.py)
+- [`meeting_rooms.py`](./meeting_rooms.py)
 - [`merge_intervals.py`](./merge_intervals.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 
@@ -153,6 +154,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`combination_sum.py`](./combination_sum.py)
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`group_anagrams.py`](./group_anagrams.py)
+- [`meeting_rooms.py`](./meeting_rooms.py)
 - [`merge_intervals.py`](./merge_intervals.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 - [`top_k_frequent_elements.py`](./top_k_frequent_elements.py)
