@@ -98,6 +98,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`two_sum.py`](./two_sum.py)
 - [`valid_anagram.py`](./valid_anagram.py)
 
+## intervals
+
+- [`insert_interval.py`](./insert_interval.py)
+
 ## linked-list
 
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
