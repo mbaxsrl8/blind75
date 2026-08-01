@@ -29,11 +29,13 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
 - [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`number_of_islands.py`](./number_of_islands.py)
+- [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
 
 ## design
 
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`implement_trie.py`](./implement_trie.py)
+- [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
 
 ## depth-first-search
 
@@ -187,6 +189,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`same_binary_tree.py`](./same_binary_tree.py)
+- [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
 - [`sub_tree_of_another_tree.py`](./sub_tree_of_another_tree.py)
 - [`valid_binary_search_tree.py`](./valid_binary_search_tree.py)
 - [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
