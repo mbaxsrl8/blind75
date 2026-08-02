@@ -72,6 +72,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
+- [`meeting_rooms2.py`](./meeting_rooms2.py)
 
 ## graph
 
@@ -82,6 +83,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## heap
 
+- [`meeting_rooms2.py`](./meeting_rooms2.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
 
 ## hash-map
@@ -155,6 +157,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`group_anagrams.py`](./group_anagrams.py)
 - [`meeting_rooms.py`](./meeting_rooms.py)
+- [`meeting_rooms2.py`](./meeting_rooms2.py)
 - [`merge_intervals.py`](./merge_intervals.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 - [`top_k_frequent_elements.py`](./top_k_frequent_elements.py)
@@ -188,6 +191,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`longest_palindromic_substring.py`](./longest_palindromic_substring.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
+- [`meeting_rooms2.py`](./meeting_rooms2.py)
 - [`palindromic_substrings.py`](./palindromic_substrings.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
 - [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
