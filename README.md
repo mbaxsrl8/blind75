@@ -122,6 +122,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`rotate_images.py`](./rotate_images.py)
+- [`spiral_matrix.py`](./spiral_matrix.py)
 - [`unique_paths.py`](./unique_paths.py)
 - [`word_search.py`](./word_search.py)
 
