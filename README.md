@@ -23,6 +23,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`missing_number.py`](./missing_number.py)
 - [`number_of_1_bit.py`](./number_of_1_bit.py)
 - [`reverse_bits.py`](./reverse_bits.py)
+- [`sum_of_two_integers.py`](./sum_of_two_integers.py)
 
 ## breadth-first-search
 
