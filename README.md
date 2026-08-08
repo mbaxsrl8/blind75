@@ -6,6 +6,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`combination_sum.py`](./combination_sum.py)
 - [`word_search.py`](./word_search.py)
+- [`word_search_2.py`](./word_search_2.py)
 
 ## binary-search
 
@@ -48,6 +49,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`word_search.py`](./word_search.py)
+- [`word_search_2.py`](./word_search_2.py)
 
 ## divide-and-conquer
 
@@ -128,6 +130,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`spiral_matrix.py`](./spiral_matrix.py)
 - [`unique_paths.py`](./unique_paths.py)
 - [`word_search.py`](./word_search.py)
+- [`word_search_2.py`](./word_search_2.py)
 
 ## prefix-suffix
 
@@ -219,3 +222,4 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`implement_trie.py`](./implement_trie.py)
+- [`word_search_2.py`](./word_search_2.py)
