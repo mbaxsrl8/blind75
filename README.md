@@ -48,6 +48,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
+- [`alien_dictionary.py`](./alien_dictionary.py)
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
 
@@ -80,6 +81,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`alien_dictionary.py`](./alien_dictionary.py)
 - [`clone_graph.py`](./clone_graph.py)
 - [`course_shcedule.py`](./course_shcedule.py)
 - [`graph_valid_tree.py`](./graph_valid_tree.py)
@@ -178,6 +180,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## string
 
+- [`alien_dictionary.py`](./alien_dictionary.py)
 - [`decode_ways.py`](./decode_ways.py)
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`group_anagrams.py`](./group_anagrams.py)
