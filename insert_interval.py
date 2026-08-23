@@ -1,4 +1,4 @@
-# Tags: intervals
+# Tags: intervals, review-priority
 
 from typing import List
 # You are given an array of non-overlapping intervals intervals where intervals[i] = [start_i, end_i] represents the start and the end time of the ith interval. intervals is initially sorted in ascending order by start_i.

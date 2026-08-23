@@ -1,4 +1,4 @@
-# Tags: sliding-window, hash-map, string
+# Tags: review-priority, sliding-window, hash-map, string
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         res = 1
@@ -18,17 +18,7 @@ class Solution:
             r += 1
         return res
 
-    def find_most_frequent_char(self, cache: dict):
-        max_count = 0
-        char = None
-        for k, v in cache.items():
-            if v > max_count:
-                max_count = v
-                char = k
-        print("most frequent char is %s", char)
-        return char
-
 
 if "__main__" == __name__:
     sol = Solution()
-    print(sol.characterReplacement(s="AAAAABBBBCBB", k=3))
+    print(sol.find_most_frequent_char(s="ABAA", k=0))

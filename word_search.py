@@ -4,39 +4,30 @@ from typing import List, Set
 
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-
-        def isValidPos(pos: tuple[int, int]) -> bool:
-            row, col = pos[0], pos[1]
-            return row >= 0 and row < len(board) and col >= 0 and col < len(board[i])
-
-        def dfs(pos: tuple[int, int], lastPosSet: Set[tuple[int, int]], k: int) -> bool:
-            up = (pos[0] - 1, pos[1])
-            down = (pos[0] + 1, pos[1])
-            left = (pos[0], pos[1] - 1)
-            right = (pos[0], pos[1] + 1)
-            nextSteps = [up, down, left, right]
-            for nextStep in nextSteps:
-                if nextStep in lastPosSet:
-                    continue
-                if (
-                    isValidPos(nextStep)
-                    and board[nextStep[0]][nextStep[1]] == word[k]
-                ):  
-                    if k == len(word) - 1:
+        next_move = [(-1,0),(1,0),(0,-1),(0,1)]
+        def dfs(r: int, c:int, visited: Set, i: int) -> bool:
+            if i == len(word):
+                return True
+            
+            visited.add((r,c))
+            for move in next_move:
+                nr = r + move[0]
+                nc = c + move[1]
+                if (nr >=0 and nr < len(board) 
+                    and nc >=0 and nc < len(board[0]) 
+                    and (nr, nc) not in visited 
+                    and board[nr][nc] == word[i]):
+                    if dfs(nr,nc,visited,i+1):
                         return True
-                    else:
-                        if dfs(nextStep, lastPosSet | {pos}, k + 1):
-                            return True
+            visited.remove((r,c))
             return False
-
-        for i in range(0, len(board)):
-            for j in range(0, len(board[i])):
-                if board[i][j] == word[0]:
-                    if len(word) == 1:
+        
+        for row in range(len(board)):
+            for col in range(len(board[row])):
+                if board[row][col] == word[0]:
+                    if dfs(row, col, set(), 1):
                         return True
-                    if dfs((i, j), set(), 1):
-                        return True
-
+        
         return False
 
 

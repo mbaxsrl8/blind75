@@ -1,30 +1,34 @@
-# Tags: dynamic-programming
+# Tags: dynamic-programming, review-priority
 
 from typing import List
 
 
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        i = 0
-        res = nums[i]
-        max_prefix = 1
-        min_prefix = 1
-        while i < len(nums):
-            val = nums[i]
-            res = max(res, max_prefix * val, min_prefix * val, val)
-            # if it's 0 we need to reset a neutral number for both max and min prefix
-            if val == 0:
-                max_prefix = 1
-                min_prefix = 1
+        res = nums[0]
+
+        prev = 1
+        prev_neg = None
+        for num in nums:
+            if num >= 0:
+                if prev_neg != None:
+                    prev_neg = prev_neg * num
+                if prev >0:
+                    cur = num * prev
+                else:
+                    cur = num
             else:
-                next_max_prefix = max(max_prefix * val, min_prefix * val, val)
-                next_min_prefix = min(max_prefix * val, min_prefix * val, val)
-                max_prefix = next_max_prefix
-                min_prefix = next_min_prefix
-            i = i + 1
+                if prev_neg != None:
+                    cur = prev_neg * num
+                else:
+                    cur = num
+                prev_neg = num if prev <=0 else prev*num
+            res = max(res, cur)
+            prev = cur
+        
         return res
 
 
 if "__main__" == __name__:
     sol = Solution()
-    print(sol.maxProduct([3, -1, 4]))
+    print(sol.maxProduct([2,-5,-2,-4,3]))
