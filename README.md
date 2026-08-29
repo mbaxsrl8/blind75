@@ -113,6 +113,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`top_k_frequent_elements.py`](./top_k_frequent_elements.py)
 - [`two_sum.py`](./two_sum.py)
 - [`valid_anagram.py`](./valid_anagram.py)
+- [`valid_sudoku.py`](./valid_sudoku.py)
 
 ## intervals
 
@@ -138,6 +139,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`set_matrix_zeros.py`](./set_matrix_zeros.py)
 - [`spiral_matrix.py`](./spiral_matrix.py)
 - [`unique_paths.py`](./unique_paths.py)
+- [`valid_sudoku.py`](./valid_sudoku.py)
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
 
