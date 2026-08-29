@@ -1,4 +1,4 @@
-# Tags: dynamic-programming, review-priority
+# Tags: dynamic-programming
 
 from typing import List
 

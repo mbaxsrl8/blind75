@@ -1,4 +1,4 @@
-# Tags: hash-map, sliding-window, review-priority
+# Tags: hash-map, sliding-window
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         l = 0

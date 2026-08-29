@@ -1,4 +1,4 @@
-# Tags: review-priority, tree, recursion, divide-and-conquer
+# Tags: tree, recursion, divide-and-conquer
 """Construct Binary Tree from Preorder and Inorder Traversal."""
 
 from typing import List, Optional

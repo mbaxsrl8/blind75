@@ -1,4 +1,4 @@
-# Tags: dynamic-programming, review-priority, string
+# Tags: dynamic-programming, string
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
         ## dynamic programming

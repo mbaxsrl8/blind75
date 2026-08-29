@@ -1,4 +1,4 @@
-# Tags: backtracking, trie, matrix, dfs, review-priority
+# Tags: backtracking, trie, matrix, dfs
 
 class TrieNode:
     def __init__(self):

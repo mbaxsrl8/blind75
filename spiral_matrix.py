@@ -1,4 +1,4 @@
-# Tags: matrix, review-priority
+# Tags: matrix
 
 class Solution:
     def spiralOrder(self, matrix: list[list[int]]) -> list[int]:

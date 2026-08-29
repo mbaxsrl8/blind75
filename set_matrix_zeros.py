@@ -1,4 +1,4 @@
-# Tags: matrix, review-priority
+# Tags: matrix
 
 # Given an m x n matrix of integers matrix, if an element is 0, set its entire row and column to 0's.
 

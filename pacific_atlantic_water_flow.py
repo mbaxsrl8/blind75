@@ -1,4 +1,4 @@
-# Tags: dfs, matrix, review-priority
+# Tags: dfs, matrix
 
 from typing import List, Set
 

@@ -6,22 +6,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
-- [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
-- [`find_minimum_in_rotated_sorted_array.py`](./find_minimum_in_rotated_sorted_array.py)
-- [`house_robber.py`](./house_robber.py)
-- [`insert_interval.py`](./insert_interval.py)
-- [`longest_common_subsequence.py`](./longest_common_subsequence.py)
-- [`longest_repeating_character_replacement.py`](./longest_repeating_character_replacement.py)
-- [`longest_substring_without_repeating.py`](./longest_substring_without_repeating.py)
-- [`maximum_product_subarray.py`](./maximum_product_subarray.py)
-- [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
-- [`mininum_window_substring.py`](./mininum_window_substring.py)
-- [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
-- [`set_matrix_zeros.py`](./set_matrix_zeros.py)
-- [`spiral_matrix.py`](./spiral_matrix.py)
-- [`word_break.py`](./word_break.py)
-- [`word_search_2.py`](./word_search_2.py)
 
 ## backtracking
 

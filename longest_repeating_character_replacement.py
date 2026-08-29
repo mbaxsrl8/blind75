@@ -1,4 +1,4 @@
-# Tags: review-priority, sliding-window, hash-map, string
+# Tags: sliding-window, hash-map, string
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         res = 1
