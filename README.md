@@ -6,6 +6,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
+- [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`trapping_rain_water.py`](./trapping_rain_water.py)
 
