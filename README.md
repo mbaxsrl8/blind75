@@ -113,6 +113,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`mininum_window_substring.py`](./mininum_window_substring.py)
 - [`top_k_frequent_elements.py`](./top_k_frequent_elements.py)
 - [`two_sum.py`](./two_sum.py)
+- [`permutation_in_string.py`](./permutation_in_string.py)
 - [`valid_anagram.py`](./valid_anagram.py)
 - [`valid_sudoku.py`](./valid_sudoku.py)
 
@@ -168,6 +169,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`longest_repeating_character_replacement.py`](./longest_repeating_character_replacement.py)
 - [`longest_substring_without_repeating.py`](./longest_substring_without_repeating.py)
 - [`mininum_window_substring.py`](./mininum_window_substring.py)
+- [`permutation_in_string.py`](./permutation_in_string.py)
 - [`valid_palindrome.py`](./valid_palindrome.py)
 
 ## sorting
@@ -217,6 +219,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`palindromic_substrings.py`](./palindromic_substrings.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
 - [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
+- [`permutation_in_string.py`](./permutation_in_string.py)
 - [`two_integer_sum_2.py`](./two_integer_sum_2.py)
 
 ## tree
