@@ -8,6 +8,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`coin_change.py`](./coin_change.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
+- [`sliding_window_maximum.py`](./sliding_window_maximum.py)
 - [`trapping_rain_water.py`](./trapping_rain_water.py)
 
 ## backtracking
@@ -100,6 +101,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
+- [`sliding_window_maximum.py`](./sliding_window_maximum.py)
 
 ## hash-map
 
@@ -146,6 +148,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
 
+## monotonic-queue
+
+- [`sliding_window_maximum.py`](./sliding_window_maximum.py)
+
 ## prefix-suffix
 
 - [`product_of_array_except_self.py`](./product_of_array_except_self.py)
@@ -171,6 +177,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`longest_substring_without_repeating.py`](./longest_substring_without_repeating.py)
 - [`mininum_window_substring.py`](./mininum_window_substring.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
+- [`sliding_window_maximum.py`](./sliding_window_maximum.py)
 - [`valid_palindrome.py`](./valid_palindrome.py)
 
 ## sorting
