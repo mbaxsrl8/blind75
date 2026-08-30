@@ -7,6 +7,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
+- [`trapping_rain_water.py`](./trapping_rain_water.py)
 
 ## backtracking
 
@@ -209,6 +210,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`3_sum.py`](./3_sum.py)
 - [`best_time_to_buy_and_sell_stock.py`](./best_time_to_buy_and_sell_stock.py)
 - [`container_with_most_water.py`](./container_with_most_water.py)
+- [`trapping_rain_water.py`](./trapping_rain_water.py)
 - [`longest_palindromic_substring.py`](./longest_palindromic_substring.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
