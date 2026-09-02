@@ -47,6 +47,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`implement_trie.py`](./implement_trie.py)
+- [`min_stack.py`](./min_stack.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
 
 ## depth-first-search
@@ -150,6 +151,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## monotonic-queue
 
+- [`min_stack.py`](./min_stack.py)
 - [`sliding_window_maximum.py`](./sliding_window_maximum.py)
 
 ## prefix-suffix
@@ -195,7 +197,9 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## stack
 
+- [`evaluate_reverse_polish_notation.py`](./evaluate_reverse_polish_notation.py)
 - [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
+- [`min_stack.py`](./min_stack.py)
 - [`valid_parentheses.py`](./valid_parentheses.py)
 
 ## string
