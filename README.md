@@ -152,6 +152,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## monotonic-queue
 
+- [`car_fleet.py`](./car_fleet.py)
 - [`daily_temperatures.py`](./daily_temperatures.py)
 - [`min_stack.py`](./min_stack.py)
 - [`sliding_window_maximum.py`](./sliding_window_maximum.py)
@@ -199,6 +200,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## stack
 
+- [`car_fleet.py`](./car_fleet.py)
 - [`daily_temperatures.py`](./daily_temperatures.py)
 - [`evaluate_reverse_polish_notation.py`](./evaluate_reverse_polish_notation.py)
 - [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
