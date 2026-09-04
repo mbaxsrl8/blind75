@@ -7,6 +7,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
 - [`daily_temperatures.py`](./daily_temperatures.py)
+- [`largest_rectangle__in_histogram.py`](./largest_rectangle__in_histogram.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`sliding_window_maximum.py`](./sliding_window_maximum.py)
@@ -154,6 +155,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`car_fleet.py`](./car_fleet.py)
 - [`daily_temperatures.py`](./daily_temperatures.py)
+- [`largest_rectangle__in_histogram.py`](./largest_rectangle__in_histogram.py)
 - [`min_stack.py`](./min_stack.py)
 - [`sliding_window_maximum.py`](./sliding_window_maximum.py)
 
@@ -204,6 +206,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`daily_temperatures.py`](./daily_temperatures.py)
 - [`evaluate_reverse_polish_notation.py`](./evaluate_reverse_polish_notation.py)
 - [`kth_smallest_integer_in_bst.py`](./kth_smallest_integer_in_bst.py)
+- [`largest_rectangle__in_histogram.py`](./largest_rectangle__in_histogram.py)
 - [`min_stack.py`](./min_stack.py)
 - [`valid_parentheses.py`](./valid_parentheses.py)
 
