@@ -1,4 +1,4 @@
-# Tags: two-pointers, review-priority
+# Tags: two-pointers
 
 # You are given an array of non-negative integers height which represent an elevation map. Each value height[i] represents the height of a bar, which has a width of 1.
 
