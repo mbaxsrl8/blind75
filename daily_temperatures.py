@@ -1,4 +1,4 @@
-# Tags: stack, monotonic-queue, review-priority
+# Tags: stack, monotonic-queue
 from collections import deque
 
 # You are given an array of integers temperatures where temperatures[i] represents the daily temperatures on the ith day.

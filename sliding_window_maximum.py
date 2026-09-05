@@ -1,4 +1,4 @@
-# Tags: heap, sliding-window, monotonic-queue, review-priority
+# Tags: heap, sliding-window, monotonic-queue
 
 # You are given an array of integers nums and an integer k. There is a sliding window of size k that starts at the left edge of the array. The window slides one position to the right until it reaches the right edge of the array.
 
