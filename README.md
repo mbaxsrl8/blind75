@@ -8,6 +8,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`coin_change.py`](./coin_change.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
+- [`time_based_key-value_store.py`](./time_based_key-value_store.py)
 
 ## backtracking
 
@@ -21,6 +22,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`koko_eating_bananas.py`](./koko_eating_bananas.py)
 - [`search_a_2D_matrix.py`](./search_a_2D_matrix.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
+- [`time_based_key-value_store.py`](./time_based_key-value_store.py)
 
 ## binary-search-tree
 
@@ -49,6 +51,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`implement_trie.py`](./implement_trie.py)
 - [`min_stack.py`](./min_stack.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
+- [`time_based_key-value_store.py`](./time_based_key-value_store.py)
 
 ## depth-first-search
 
