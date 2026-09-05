@@ -18,6 +18,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## binary-search
 
 - [`find_minimum_in_rotated_sorted_array.py`](./find_minimum_in_rotated_sorted_array.py)
+- [`search_a_2D_matrix.py`](./search_a_2D_matrix.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 
 ## binary-search-tree
