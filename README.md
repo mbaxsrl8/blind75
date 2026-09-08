@@ -6,6 +6,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
+- [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`time_based_key-value_store.py`](./time_based_key-value_store.py)
@@ -20,6 +21,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`find_minimum_in_rotated_sorted_array.py`](./find_minimum_in_rotated_sorted_array.py)
 - [`koko_eating_bananas.py`](./koko_eating_bananas.py)
+- [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
 - [`search_a_2D_matrix.py`](./search_a_2D_matrix.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`time_based_key-value_store.py`](./time_based_key-value_store.py)
