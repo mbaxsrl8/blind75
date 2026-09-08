@@ -136,6 +136,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## linked-list
 
+- [`add_two_numbers.py`](./add_two_numbers.py)
 - [`copy_linked_list_with_random_pointer.py`](./copy_linked_list_with_random_pointer.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
