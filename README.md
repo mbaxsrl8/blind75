@@ -138,6 +138,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`add_two_numbers.py`](./add_two_numbers.py)
 - [`copy_linked_list_with_random_pointer.py`](./copy_linked_list_with_random_pointer.py)
+- [`find_the_duplicate_number.py`](./find_the_duplicate_number.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
 - [`merge_two_sorted_linked_lists.py`](./merge_two_sorted_linked_lists.py)
@@ -238,6 +239,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`3_sum.py`](./3_sum.py)
 - [`best_time_to_buy_and_sell_stock.py`](./best_time_to_buy_and_sell_stock.py)
 - [`container_with_most_water.py`](./container_with_most_water.py)
+- [`find_the_duplicate_number.py`](./find_the_duplicate_number.py)
 - [`trapping_rain_water.py`](./trapping_rain_water.py)
 - [`longest_palindromic_substring.py`](./longest_palindromic_substring.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
