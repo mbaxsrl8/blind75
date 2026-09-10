@@ -6,6 +6,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
+- [`lru_cache.py`](./lru_cache.py)
 - [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
@@ -51,6 +52,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`implement_trie.py`](./implement_trie.py)
+- [`lru_cache.py`](./lru_cache.py)
 - [`min_stack.py`](./min_stack.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
 - [`time_based_key-value_store.py`](./time_based_key-value_store.py)
@@ -140,6 +142,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`copy_linked_list_with_random_pointer.py`](./copy_linked_list_with_random_pointer.py)
 - [`find_the_duplicate_number.py`](./find_the_duplicate_number.py)
 - [`linked_list_cycle_detection.py`](./linked_list_cycle_detection.py)
+- [`lru_cache.py`](./lru_cache.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
 - [`merge_two_sorted_linked_lists.py`](./merge_two_sorted_linked_lists.py)
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
