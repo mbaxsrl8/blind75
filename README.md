@@ -148,6 +148,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`reordered_linked_list.py`](./reordered_linked_list.py)
 - [`remove_nth_node_from_end_of_list.py`](./remove_nth_node_from_end_of_list.py)
 - [`revert_linked_list.py`](./revert_linked_list.py)
+- [`reverse_node_in_k_group.py`](./reverse_node_in_k_group.py)
 
 ## matrix
 
