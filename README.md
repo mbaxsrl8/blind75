@@ -256,6 +256,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## tree
 
+- [`diameter_of_binary_tree.py`](./diameter_of_binary_tree.py)
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
 - [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
 - [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
