@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## review-priority
 
+- [`balanced_binary_tree.py`](./balanced_binary_tree.py)
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
 - [`lru_cache.py`](./lru_cache.py)
@@ -59,6 +60,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## depth-first-search
 
+- [`balanced_binary_tree.py`](./balanced_binary_tree.py)
 - [`clone_graph.py`](./clone_graph.py)
 - [`course_shcedule.py`](./course_shcedule.py)
 - [`graph_valid_tree.py`](./graph_valid_tree.py)
@@ -256,6 +258,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## tree
 
+- [`balanced_binary_tree.py`](./balanced_binary_tree.py)
 - [`diameter_of_binary_tree.py`](./diameter_of_binary_tree.py)
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
 - [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
