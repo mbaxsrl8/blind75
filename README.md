@@ -44,6 +44,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## breadth-first-search
 
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
+- [`binary_tree_right_side_view.py`](./binary_tree_right_side_view.py)
 - [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
@@ -263,6 +264,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
 - [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
 - [`construct_binary_tree_from_preorder_and_inorder_traversal.py`](./construct_binary_tree_from_preorder_and_inorder_traversal.py)
+- [`binary_tree_right_side_view.py`](./binary_tree_right_side_view.py)
 - [`invert_binary_tree.py`](./invert_binary_tree.py)
 - [`lowest_common_ancestor_in_binary_search_tree.py`](./lowest_common_ancestor_in_binary_search_tree.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
