@@ -54,6 +54,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`implement_trie.py`](./implement_trie.py)
+- [`kth_largest_element_in_a_stream.py`](./kth_largest_element_in_a_stream.py)
 - [`lru_cache.py`](./lru_cache.py)
 - [`min_stack.py`](./min_stack.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
@@ -110,6 +111,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## heap
 
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
+- [`kth_largest_element_in_a_stream.py`](./kth_largest_element_in_a_stream.py)
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
 - [`sliding_window_maximum.py`](./sliding_window_maximum.py)
