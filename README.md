@@ -7,6 +7,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`balanced_binary_tree.py`](./balanced_binary_tree.py)
 - [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
+- [`k_closest_points_to_origin.py`](./k_closest_points_to_origin.py)
 - [`lru_cache.py`](./lru_cache.py)
 - [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
@@ -111,6 +112,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## heap
 
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
+- [`k_closest_points_to_origin.py`](./k_closest_points_to_origin.py)
 - [`kth_largest_element_in_a_stream.py`](./kth_largest_element_in_a_stream.py)
 - [`last_stone_weight.py`](./last_stone_weight.py)
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
