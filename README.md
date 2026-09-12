@@ -100,6 +100,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
+- [`task_scheduler.py`](./task_scheduler.py)
 
 ## graph
 
@@ -118,6 +119,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
 - [`merge_k_sorted_linked_lists.py`](./merge_k_sorted_linked_lists.py)
 - [`sliding_window_maximum.py`](./sliding_window_maximum.py)
+- [`task_scheduler.py`](./task_scheduler.py)
 
 ## hash-map
 
