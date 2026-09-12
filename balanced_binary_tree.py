@@ -1,4 +1,4 @@
-# Tags: tree, depth-first-search, review-priority
+# Tags: tree, depth-first-search
 from typing import Optional
 
 from tree_node import TreeNode, convertListToTree
