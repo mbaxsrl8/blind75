@@ -52,6 +52,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## design
 
+- [`design_twitter.py`](./design_twitter.py)
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`implement_trie.py`](./implement_trie.py)
@@ -112,6 +113,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## heap
 
+- [`design_twitter.py`](./design_twitter.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`k_closest_points_to_origin.py`](./k_closest_points_to_origin.py)
 - [`kth_largest_element_in_a_stream.py`](./kth_largest_element_in_a_stream.py)
@@ -123,6 +125,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## hash-map
 
+- [`design_twitter.py`](./design_twitter.py)
 - [`clone_graph.py`](./clone_graph.py)
 - [`contains_duplicate.py`](./contains_duplicate.py)
 - [`copy_linked_list_with_random_pointer.py`](./copy_linked_list_with_random_pointer.py)
