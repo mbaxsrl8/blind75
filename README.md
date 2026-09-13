@@ -4,7 +4,6 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## review-priority
 
-- [`3_sum.py`](./3_sum.py)
 - [`coin_change.py`](./coin_change.py)
 - [`k_closest_points_to_origin.py`](./k_closest_points_to_origin.py)
 - [`lru_cache.py`](./lru_cache.py)

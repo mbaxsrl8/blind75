@@ -1,4 +1,4 @@
-# Tags: two-pointers, sorting, review-priority
+# Tags: two-pointers, sorting
 
 from typing import List
 
