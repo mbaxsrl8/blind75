@@ -4,17 +4,16 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## review-priority
 
-- [`coin_change.py`](./coin_change.py)
-- [`k_closest_points_to_origin.py`](./k_closest_points_to_origin.py)
-- [`lru_cache.py`](./lru_cache.py)
 - [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
+- [`subsets.py`](./subsets.py)
 - [`time_based_key-value_store.py`](./time_based_key-value_store.py)
 
 ## backtracking
 
 - [`combination_sum.py`](./combination_sum.py)
+- [`subsets.py`](./subsets.py)
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
 

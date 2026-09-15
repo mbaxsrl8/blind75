@@ -1,4 +1,4 @@
-# Tags: design, linked-list, review-priority
+# Tags: design, linked-list
 class LinkedList:
     def __init__(self, value: int):
         self.value = value

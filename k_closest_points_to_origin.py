@@ -1,4 +1,4 @@
-# Tags: heap, review-priority
+# Tags: heap
 import heapq
 
 # You are given an 2-D array points where points[i] = [xi, yi] represents the coordinates of a point on an X-Y axis plane. You are also given an integer k.
