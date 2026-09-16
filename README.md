@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## review-priority
 
+- [`combination_sum_2.py`](./combination_sum_2.py)
 - [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
@@ -13,6 +14,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## backtracking
 
 - [`combination_sum.py`](./combination_sum.py)
+- [`combination_sum_2.py`](./combination_sum_2.py)
 - [`subsets.py`](./subsets.py)
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
