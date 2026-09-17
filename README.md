@@ -17,6 +17,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`combination_sum_2.py`](./combination_sum_2.py)
 - [`permutations.py`](./permutations.py)
 - [`subsets.py`](./subsets.py)
+- [`subsets_2.py`](./subsets_2.py)
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
 
