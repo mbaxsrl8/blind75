@@ -6,6 +6,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`combination_sum_2.py`](./combination_sum_2.py)
 - [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
+- [`palindrome_partitioning.py`](./palindrome_partitioning.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`subsets.py`](./subsets.py)
@@ -16,6 +17,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`combination_sum.py`](./combination_sum.py)
 - [`combination_sum_2.py`](./combination_sum_2.py)
 - [`generate_parentheses.py`](./generate_parentheses.py)
+- [`palindrome_partitioning.py`](./palindrome_partitioning.py)
 - [`permutations.py`](./permutations.py)
 - [`subsets.py`](./subsets.py)
 - [`subsets_2.py`](./subsets_2.py)
