@@ -18,6 +18,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`combination_sum_2.py`](./combination_sum_2.py)
 - [`generate_parentheses.py`](./generate_parentheses.py)
 - [`letter_combination_of_a_phone_number.py`](./letter_combination_of_a_phone_number.py)
+- [`N-queens.py`](./N-queens.py)
 - [`palindrome_partitioning.py`](./palindrome_partitioning.py)
 - [`permutations.py`](./permutations.py)
 - [`subsets.py`](./subsets.py)
