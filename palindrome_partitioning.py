@@ -1,4 +1,4 @@
-# Tags: backtracking, review-priority
+# Tags: backtracking
 class Solution:
     def partition(self, s: str) -> list[list[str]]:
         result = []

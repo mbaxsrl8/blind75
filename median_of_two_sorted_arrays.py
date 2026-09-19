@@ -1,4 +1,4 @@
-# Tags: binary-search, review-priority
+# Tags: binary-search
 # You are given two integer arrays nums1 and nums2 of size m and n respectively, where each is sorted in ascending order. Return the median value among all elements of the two arrays.
 
 

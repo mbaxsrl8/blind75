@@ -4,9 +4,6 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## review-priority
 
-- [`combination_sum_2.py`](./combination_sum_2.py)
-- [`median_of_two_sorted_arrays.py`](./median_of_two_sorted_arrays.py)
-- [`palindrome_partitioning.py`](./palindrome_partitioning.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`subsets.py`](./subsets.py)
@@ -76,6 +73,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`graph_valid_tree.py`](./graph_valid_tree.py)
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`maximum_depth_of_binary_tree.py`](./maximum_depth_of_binary_tree.py)
+- [`max_area_of_island.py`](./max_area_of_island.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
 - [`word_search.py`](./word_search.py)
@@ -171,6 +169,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## matrix
 
+- [`max_area_of_island.py`](./max_area_of_island.py)
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`rotate_images.py`](./rotate_images.py)
