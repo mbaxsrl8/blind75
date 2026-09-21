@@ -2,7 +2,7 @@
 
 This index is the main organizer for the flat repo layout. Each problem can appear under multiple tags.
 
-## review-priority
+## needs-review
 
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
@@ -54,6 +54,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
+- [`rotting_fruit.py`](./rotting_fruit.py)
 
 ## design
 
@@ -176,6 +177,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`pacific_atlantic_water_flow.py`](./pacific_atlantic_water_flow.py)
 - [`rotate_images.py`](./rotate_images.py)
+- [`rotting_fruit.py`](./rotting_fruit.py)
 - [`set_matrix_zeros.py`](./set_matrix_zeros.py)
 - [`spiral_matrix.py`](./spiral_matrix.py)
 - [`unique_paths.py`](./unique_paths.py)

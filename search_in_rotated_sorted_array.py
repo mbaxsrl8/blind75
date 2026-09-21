@@ -1,4 +1,4 @@
-# Tags: review-priority, binary-search, rotated-array
+# Tags: needs-review, binary-search, rotated-array
 
 from typing import List
 
