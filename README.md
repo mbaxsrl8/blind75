@@ -55,6 +55,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`number_of_islands.py`](./number_of_islands.py)
 - [`serialize_and_deserialize_binary_tree.py`](./serialize_and_deserialize_binary_tree.py)
 - [`rotting_fruit.py`](./rotting_fruit.py)
+- [`surrounded_regions.py`](./surrounded_regions.py)
 
 ## design
 
@@ -180,6 +181,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`rotting_fruit.py`](./rotting_fruit.py)
 - [`set_matrix_zeros.py`](./set_matrix_zeros.py)
 - [`spiral_matrix.py`](./spiral_matrix.py)
+- [`surrounded_regions.py`](./surrounded_regions.py)
 - [`unique_paths.py`](./unique_paths.py)
 - [`valid_sudoku.py`](./valid_sudoku.py)
 - [`word_search.py`](./word_search.py)
