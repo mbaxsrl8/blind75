@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`course_schedule_2.py`](./course_schedule_2.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
@@ -71,6 +72,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## depth-first-search
 
+- [`course_schedule_2.py`](./course_schedule_2.py)
 - [`balanced_binary_tree.py`](./balanced_binary_tree.py)
 - [`clone_graph.py`](./clone_graph.py)
 - [`course_shcedule.py`](./course_shcedule.py)
@@ -113,6 +115,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`course_schedule_2.py`](./course_schedule_2.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
 - [`clone_graph.py`](./clone_graph.py)
 - [`course_shcedule.py`](./course_shcedule.py)
