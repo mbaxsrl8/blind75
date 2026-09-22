@@ -5,8 +5,11 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## needs-review
 
 - [`course_schedule_2.py`](./course_schedule_2.py)
+- [`graph_valid_tree.py`](./graph_valid_tree.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
+- [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
+- [`redundant_connection.py`](./redundant_connection.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`subsets.py`](./subsets.py)
 - [`time_based_key-value_store.py`](./time_based_key-value_store.py)
@@ -115,6 +118,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`redundant_connection.py`](./redundant_connection.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
 - [`clone_graph.py`](./clone_graph.py)
@@ -305,3 +309,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`design_add_and_search_word_data_structure.py`](./design_add_and_search_word_data_structure.py)
 - [`implement_trie.py`](./implement_trie.py)
 - [`word_search_2.py`](./word_search_2.py)
+
+## union-find
+
+- [`redundant_connection.py`](./redundant_connection.py)

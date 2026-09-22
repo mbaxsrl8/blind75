@@ -1,3 +1,4 @@
+# Tags: breadth-first-search, graph, needs-review
 from typing import List
 
 
@@ -33,4 +34,3 @@ class Solution:
 if '__main__' == __name__:
     sol = Solution()
     print(sol.countComponents(n = 5, edges = [[0,1],[1,2],[3,4]]))
-# Tags: bfs, graph
