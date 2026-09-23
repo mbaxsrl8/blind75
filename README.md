@@ -6,7 +6,6 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
-- [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
 - [`redundant_connection.py`](./redundant_connection.py)
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
@@ -312,4 +311,5 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 ## union-find
 
 - [`graph_valid_tree.py`](./graph_valid_tree.py)
+- [`number_of_connected_components_in_an_undirected_graph.py`](./number_of_connected_components_in_an_undirected_graph.py)
 - [`redundant_connection.py`](./redundant_connection.py)

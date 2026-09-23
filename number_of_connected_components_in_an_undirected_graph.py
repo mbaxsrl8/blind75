@@ -1,36 +1,36 @@
-# Tags: breadth-first-search, graph, needs-review
+# Tags: breadth-first-search, graph, union-find
 from typing import List
 
 
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        res = 0
-        cache = [[] for _ in range(n)]
-        for edge in edges:
-            cache[edge[0]].append(edge[1])
-            cache[edge[1]].append(edge[0])
-            
-        status = [0 for _ in range(n)] # 0: unvisited  1: visited
-        for i in range(n):
-            if status[i] == 0:
-                res += 1
-            else:
-                continue
-            bfs = [i]
-            next_bfs = []
-            while len(bfs) > 0:
-                for j in bfs:
-                    if status[j] != 0:
-                        continue
-                    status[j] = 1
-                    neighbors = cache[j]
-                    for neighbor in neighbors:
-                        next_bfs.append(neighbor)
-                bfs = next_bfs
-                next_bfs = []
+        parent = list(range(n))
+        size = [1 for _ in range(n)]
+        res = n
         
+        def findRoot(node: int):
+            while parent[node] != node:
+                parent[node] = parent[parent[node]]
+                node = parent[node]
+            return node
+        
+        for u, v in edges:
+            root_u = findRoot(u)
+            root_v = findRoot(v)
+            
+            if root_u == root_v:
+                continue
+            
+            if size[root_u] < size[root_v]:
+                root_u, root_v = root_v, root_u
+            
+            size[root_u] += size[root_v]
+            parent[root_v] = root_u
+            res -= 1
+            
         return res
-    
+        
+                
 if '__main__' == __name__:
     sol = Solution()
     print(sol.countComponents(n = 5, edges = [[0,1],[1,2],[3,4]]))
