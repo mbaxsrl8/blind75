@@ -1,4 +1,4 @@
-# Tags: depth-first-search, graph, needs-review
+# Tags: depth-first-search, graph, union-find
 
 from typing import List
 
@@ -6,35 +6,34 @@ from typing import List
 
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
-        cache = [[] for _ in range(n)]
-        for edge in edges:
-            cache[edge[0]].append(edge[1])
-            cache[edge[1]].append(edge[0])
-        
-        status = [0 for _ in range(n)] # 0: unvisited  1: visiting 2: visited
-        
-        def dfs_hasCircle(node: int, parent: int) -> bool:
-            if status[node] == 2:
-                return False
-            elif status[node] == 1:
-                return True
-            status[node] = 1
-            for child in cache[node]:
-                if child == parent:
-                    continue
-                if dfs_hasCircle(child, node):
-                    return True
-            status[node] = 2
+        # valid tree should have exact n-1 edges
+        if len(edges) != n - 1:
             return False
+        
+        parents = list(range(n))
+        size = [1 for _ in range(n)]
+        
+        def findRoot(node: int):
+            while parents[node] != node:
+                parents[node] = parents[parents[node]]
+                node = parents[node]
+            return node
+        
+        for u, v in edges:
+            root_u = findRoot(u)
+            root_v = findRoot(v)
             
-        if dfs_hasCircle(0, -1):
-            return False
-        
-        return all(
-            status[i] == 2
-            for i in range(1, n)
-        )
+            if root_u == root_v:
+                return False
+            
+            if size[root_u] < size[root_v]:
+                root_u, root_v = root_v, root_u
+            
+            size[root_u] += size[root_v]
+            parents[root_v] = root_u
+
+        return True
     
 if '__main__' == __name__:
     sol = Solution()
-    print(sol.validTree(n = 5, edges = [[0, 1], [1, 2], [2, 3], [1, 3], [1, 4]]))
+    print(sol.validTree(n = 5, edges = [[0,1],[0,2],[0,3],[1,4]]))
