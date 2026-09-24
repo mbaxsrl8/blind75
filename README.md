@@ -50,6 +50,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## breadth-first-search
 
+- [`word_ladder.py`](./word_ladder.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
 - [`binary_tree_right_side_view.py`](./binary_tree_right_side_view.py)
@@ -116,6 +117,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`word_ladder.py`](./word_ladder.py)
 - [`redundant_connection.py`](./redundant_connection.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
@@ -253,6 +255,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## string
 
+- [`word_ladder.py`](./word_ladder.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
 - [`decode_ways.py`](./decode_ways.py)
 - [`encode_and_decode_strings.py`](./encode_and_decode_strings.py)
