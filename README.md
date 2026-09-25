@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
@@ -15,6 +16,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## backtracking
 
+- [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`combination_sum.py`](./combination_sum.py)
 - [`combination_sum_2.py`](./combination_sum_2.py)
 - [`generate_parentheses.py`](./generate_parentheses.py)
@@ -95,6 +97,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
 - [`climbing_stairs.py`](./climbing_stairs.py)
 - [`coin_change.py`](./coin_change.py)
