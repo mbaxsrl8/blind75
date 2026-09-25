@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`network_delay_time.py`](./network_delay_time.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`permutation_in_string.py`](./permutation_in_string.py)
@@ -50,6 +51,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## breadth-first-search
 
+- [`network_delay_time.py`](./network_delay_time.py)
 - [`word_ladder.py`](./word_ladder.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`binary_tree_level_order_traversal.py`](./binary_tree_level_order_traversal.py)
@@ -117,6 +119,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`network_delay_time.py`](./network_delay_time.py)
 - [`word_ladder.py`](./word_ladder.py)
 - [`redundant_connection.py`](./redundant_connection.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
@@ -128,6 +131,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## heap
 
+- [`network_delay_time.py`](./network_delay_time.py)
 - [`design_twitter.py`](./design_twitter.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
 - [`k_closest_points_to_origin.py`](./k_closest_points_to_origin.py)
