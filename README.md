@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`interleaving_string.py`](./interleaving_string.py)
 - [`coin_change_2.py`](./coin_change_2.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
@@ -18,6 +19,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## 2-d-dynamic-programming
 
+- [`interleaving_string.py`](./interleaving_string.py)
 - [`target_sum.py`](./target_sum.py)
 - [`coin_change_2.py`](./coin_change_2.py)
 
@@ -104,6 +106,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`interleaving_string.py`](./interleaving_string.py)
 - [`target_sum.py`](./target_sum.py)
 - [`coin_change_2.py`](./coin_change_2.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
@@ -272,6 +275,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## string
 
+- [`interleaving_string.py`](./interleaving_string.py)
 - [`word_ladder.py`](./word_ladder.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
 - [`decode_ways.py`](./decode_ways.py)
