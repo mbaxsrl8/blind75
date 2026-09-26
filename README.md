@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`coin_change_2.py`](./coin_change_2.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`network_delay_time.py`](./network_delay_time.py)
@@ -14,6 +15,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`search_in_rotated_sorted_array.py`](./search_in_rotated_sorted_array.py)
 - [`subsets.py`](./subsets.py)
 - [`time_based_key-value_store.py`](./time_based_key-value_store.py)
+
+## 2-d-dynamic-programming
+
+- [`coin_change_2.py`](./coin_change_2.py)
 
 ## backtracking
 
@@ -98,6 +103,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`coin_change_2.py`](./coin_change_2.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`binary_tree_maximum_path_sum.py`](./binary_tree_maximum_path_sum.py)
