@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`jump_game_2.py`](./jump_game_2.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`coin_change_2.py`](./coin_change_2.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
@@ -62,6 +63,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## breadth-first-search
 
+- [`jump_game_2.py`](./jump_game_2.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`word_ladder.py`](./word_ladder.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
@@ -128,6 +130,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## greedy
 
+- [`jump_game_2.py`](./jump_game_2.py)
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
 - [`meeting_rooms2.py`](./meeting_rooms2.py)
