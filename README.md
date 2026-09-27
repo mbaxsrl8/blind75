@@ -4,9 +4,6 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
-- [`jump_game_2.py`](./jump_game_2.py)
-- [`interleaving_string.py`](./interleaving_string.py)
-- [`coin_change_2.py`](./coin_change_2.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`network_delay_time.py`](./network_delay_time.py)
@@ -20,6 +17,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## 2-d-dynamic-programming
 
+- [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`target_sum.py`](./target_sum.py)
 - [`coin_change_2.py`](./coin_change_2.py)

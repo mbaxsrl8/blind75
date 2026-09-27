@@ -1,4 +1,4 @@
-# Tags: greedy, breadth-first-search, needs-review
+# Tags: greedy, breadth-first-search
 class Solution:
     def jump(self, nums: list[int]) -> int:
         jumps = 0

@@ -1,4 +1,4 @@
-# Tags: dynamic-programming, 2-d-dynamic-programming, needs-review
+# Tags: dynamic-programming, 2-d-dynamic-programming
 class Solution:
     def change(self, amount: int, coins: list[int]) -> int:
         dp = [0] * (amount + 1)
