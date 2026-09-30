@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`network_delay_time.py`](./network_delay_time.py)
@@ -61,6 +62,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## breadth-first-search
 
+- [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`jump_game_2.py`](./jump_game_2.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`word_ladder.py`](./word_ladder.py)
@@ -106,6 +108,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`target_sum.py`](./target_sum.py)
 - [`coin_change_2.py`](./coin_change_2.py)
@@ -136,6 +139,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`word_ladder.py`](./word_ladder.py)
 - [`redundant_connection.py`](./redundant_connection.py)
