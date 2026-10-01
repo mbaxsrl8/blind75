@@ -1,4 +1,4 @@
-# Tags: union-find, graph, needs-review
+# Tags: union-find, graph
 # You are given a connected undirected graph with n nodes labeled from 1 to n. Initially, it contained no cycles and consisted of n-1 edges.
 
 # We have now added one additional edge to the graph. The edge has two different vertices chosen from 1 to n, and was not an edge that previously existed in the graph.
