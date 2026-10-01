@@ -1,4 +1,4 @@
-# Tags: backtracking, dynamic-programming, needs-review
+# Tags: backtracking, dynamic-programming
 class Solution:
     def canPartition(self, nums: list[int]) -> bool:
         # backward dp. ensure each element is used only once
