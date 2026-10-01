@@ -4,9 +4,9 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
-- [`partition_equal_subset_sum.py`](./partition_equal_subset_sum.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
@@ -89,6 +89,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## depth-first-search
 
+- [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`balanced_binary_tree.py`](./balanced_binary_tree.py)
 - [`clone_graph.py`](./clone_graph.py)
@@ -139,6 +140,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`word_ladder.py`](./word_ladder.py)
