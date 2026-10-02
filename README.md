@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`min_cost_connect_points.py`](./min_cost_connect_points.py)
 - [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
@@ -138,6 +139,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## graph
 
+- [`min_cost_connect_points.py`](./min_cost_connect_points.py)
 - [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`network_delay_time.py`](./network_delay_time.py)
@@ -218,6 +220,10 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`valid_sudoku.py`](./valid_sudoku.py)
 - [`word_search.py`](./word_search.py)
 - [`word_search_2.py`](./word_search_2.py)
+
+## minimum-spanning-tree
+
+- [`min_cost_connect_points.py`](./min_cost_connect_points.py)
 
 ## monotonic-queue
 
