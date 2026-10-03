@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`min_cost_connect_points.py`](./min_cost_connect_points.py)
 - [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
@@ -131,6 +132,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## greedy
 
+- [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`jump_game_2.py`](./jump_game_2.py)
 - [`container_with_most_water.py`](./container_with_most_water.py)
 - [`non-overlapping_intervals.py`](./non-overlapping_intervals.py)
@@ -154,6 +156,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## heap
 
+- [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`design_twitter.py`](./design_twitter.py)
 - [`find_median_from_data_stream.py`](./find_median_from_data_stream.py)
@@ -207,6 +210,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## matrix
 
+- [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`max_area_of_island.py`](./max_area_of_island.py)
 - [`number_of_islands.py`](./number_of_islands.py)
