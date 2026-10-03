@@ -132,6 +132,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## greedy
 
+- [`gas_station.py`](./gas_station.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`jump_game_2.py`](./jump_game_2.py)
 - [`container_with_most_water.py`](./container_with_most_water.py)
