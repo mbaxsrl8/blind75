@@ -132,6 +132,8 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## greedy
 
+- [`partition_labels.py`](./partition_labels.py)
+- [`hand_of_straights.py`](./hand_of_straights.py)
 - [`merge_triplets_to_form_target.py`](./merge_triplets_to_form_target.py)
 - [`gas_station.py`](./gas_station.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
@@ -158,6 +160,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## heap
 
+- [`hand_of_straights.py`](./hand_of_straights.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`network_delay_time.py`](./network_delay_time.py)
 - [`design_twitter.py`](./design_twitter.py)
@@ -172,6 +175,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## hash-map
 
+- [`hand_of_straights.py`](./hand_of_straights.py)
 - [`design_twitter.py`](./design_twitter.py)
 - [`clone_graph.py`](./clone_graph.py)
 - [`contains_duplicate.py`](./contains_duplicate.py)
