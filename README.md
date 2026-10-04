@@ -132,6 +132,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## greedy
 
+- [`minimum_interval_to_include_each_query.py`](./minimum_interval_to_include_each_query.py)
 - [`valid_parentheses_string.py`](./valid_parentheses_string.py)
 - [`partition_labels.py`](./partition_labels.py)
 - [`hand_of_straights.py`](./hand_of_straights.py)
@@ -161,6 +162,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## heap
 
+- [`minimum_interval_to_include_each_query.py`](./minimum_interval_to_include_each_query.py)
 - [`hand_of_straights.py`](./hand_of_straights.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`network_delay_time.py`](./network_delay_time.py)
@@ -196,6 +198,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## intervals
 
+- [`minimum_interval_to_include_each_query.py`](./minimum_interval_to_include_each_query.py)
 - [`insert_interval.py`](./insert_interval.py)
 - [`meeting_rooms.py`](./meeting_rooms.py)
 - [`merge_intervals.py`](./merge_intervals.py)
