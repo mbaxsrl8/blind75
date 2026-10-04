@@ -132,6 +132,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## greedy
 
+- [`valid_parentheses_string.py`](./valid_parentheses_string.py)
 - [`partition_labels.py`](./partition_labels.py)
 - [`hand_of_straights.py`](./hand_of_straights.py)
 - [`merge_triplets_to_form_target.py`](./merge_triplets_to_form_target.py)
