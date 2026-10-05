@@ -218,6 +218,11 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 - [`revert_linked_list.py`](./revert_linked_list.py)
 - [`reverse_node_in_k_group.py`](./reverse_node_in_k_group.py)
 
+## math
+
+- [`plus_one.py`](./plus_one.py)
+- [`non-cyclical_number.py`](./non-cyclical_number.py)
+
 ## matrix
 
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
