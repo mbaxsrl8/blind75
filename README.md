@@ -89,6 +89,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## depth-first-search
 
+- [`longest_increasing_path_in_matrix.py`](./longest_increasing_path_in_matrix.py)
 - [`reconstrcu_flight_path.py`](./reconstrcu_flight_path.py)
 - [`course_schedule_2.py`](./course_schedule_2.py)
 - [`balanced_binary_tree.py`](./balanced_binary_tree.py)
@@ -109,6 +110,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`longest_increasing_path_in_matrix.py`](./longest_increasing_path_in_matrix.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`target_sum.py`](./target_sum.py)
@@ -225,6 +227,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## matrix
 
+- [`longest_increasing_path_in_matrix.py`](./longest_increasing_path_in_matrix.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`islands_and_treasure.py`](./islands_and_treasure.py)
 - [`max_area_of_island.py`](./max_area_of_island.py)
