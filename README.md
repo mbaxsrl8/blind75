@@ -18,6 +18,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## 2-d-dynamic-programming
 
+- [`distinct_subsequences.py`](./distinct_subsequences.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`target_sum.py`](./target_sum.py)
@@ -110,6 +111,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## dynamic-programming
 
+- [`distinct_subsequences.py`](./distinct_subsequences.py)
 - [`longest_increasing_path_in_matrix.py`](./longest_increasing_path_in_matrix.py)
 - [`cheapest_flights_within_k_stops.py`](./cheapest_flights_within_k_stops.py)
 - [`interleaving_string.py`](./interleaving_string.py)
