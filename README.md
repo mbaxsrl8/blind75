@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`edit_distance.py`](./edit_distance.py)
 - [`gas_station.py`](./gas_station.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`min_cost_connect_points.py`](./min_cost_connect_points.py)
@@ -18,6 +19,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## 2-d-dynamic-programming
 
+- [`edit_distance.py`](./edit_distance.py)
 - [`distinct_subsequences.py`](./distinct_subsequences.py)
 - [`best_time_to_buy_and_sell_stock_with_cooldown.py`](./best_time_to_buy_and_sell_stock_with_cooldown.py)
 - [`interleaving_string.py`](./interleaving_string.py)
@@ -310,6 +312,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## string
 
+- [`edit_distance.py`](./edit_distance.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`word_ladder.py`](./word_ladder.py)
 - [`alien_dictionary.py`](./alien_dictionary.py)
