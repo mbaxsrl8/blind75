@@ -1,4 +1,4 @@
-# Tags: 2-d-dynamic-programming, string, needs-review
+# Tags: 2-d-dynamic-programming, string
 class Solution:
     def minDistance(self, word1: str, word2: str) -> int:
         rows, cols = len(word1) + 1, len(word2) + 1

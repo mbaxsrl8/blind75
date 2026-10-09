@@ -4,7 +4,6 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
-- [`edit_distance.py`](./edit_distance.py)
 - [`gas_station.py`](./gas_station.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
 - [`min_cost_connect_points.py`](./min_cost_connect_points.py)
@@ -226,6 +225,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## math
 
+- [`pow_x_n.py`](./pow_x_n.py)
 - [`plus_one.py`](./plus_one.py)
 - [`non-cyclical_number.py`](./non-cyclical_number.py)
 
