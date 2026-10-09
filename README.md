@@ -225,6 +225,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## math
 
+- [`multiply_strings.py`](./multiply_strings.py)
 - [`pow_x_n.py`](./pow_x_n.py)
 - [`plus_one.py`](./plus_one.py)
 - [`non-cyclical_number.py`](./non-cyclical_number.py)
