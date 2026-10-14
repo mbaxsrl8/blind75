@@ -60,6 +60,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## bit-manipulation
 
+- [`reverse_integer.py`](./reverse_integer.py)
 - [`counting_bits.py`](./counting_bits.py)
 - [`missing_number.py`](./missing_number.py)
 - [`number_of_1_bit.py`](./number_of_1_bit.py)
