@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`regular_expression_matching.py`](./regular_expression_matching.py)
 - [`burst_balloons.py`](./burst_balloons.py)
 - [`gas_station.py`](./gas_station.py)
 - [`swim_in_rising_water.py`](./swim_in_rising_water.py)
@@ -19,6 +20,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## 2-d-dynamic-programming
 
+- [`regular_expression_matching.py`](./regular_expression_matching.py)
 - [`burst_balloons.py`](./burst_balloons.py)
 - [`edit_distance.py`](./edit_distance.py)
 - [`distinct_subsequences.py`](./distinct_subsequences.py)
@@ -185,6 +187,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## hash-map
 
+- [`detect_squares.py`](./detect_squares.py)
 - [`hand_of_straights.py`](./hand_of_straights.py)
 - [`design_twitter.py`](./design_twitter.py)
 - [`clone_graph.py`](./clone_graph.py)
@@ -227,6 +230,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## math
 
+- [`detect_squares.py`](./detect_squares.py)
 - [`multiply_strings.py`](./multiply_strings.py)
 - [`pow_x_n.py`](./pow_x_n.py)
 - [`plus_one.py`](./plus_one.py)
@@ -315,6 +319,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## string
 
+- [`regular_expression_matching.py`](./regular_expression_matching.py)
 - [`edit_distance.py`](./edit_distance.py)
 - [`interleaving_string.py`](./interleaving_string.py)
 - [`word_ladder.py`](./word_ladder.py)
