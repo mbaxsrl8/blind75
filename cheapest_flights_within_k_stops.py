@@ -31,6 +31,35 @@ class Solution:
             next_level = []
 
         return minPriceByStop.get(dst, -1)
+    
+    # Dijkstra
+    # def findCheapestPrice(self, n: int, flights: list[list[int]], src: int, dst: int, k: int) -> int:
+    #         adj = {}
+    #         for s, d, p in flights:
+    #             if s not in adj:
+    #                 adj[s] = []
+    #             adj[s].append((d, p))
+            
+    #         minHeap = [(0, -1, src)]
+    #         INF = float("inf")
+    #         pricePerNode = [[INF for i in range(k + 2)] for _ in range(n)]
+            
+    #         while minHeap:
+    #             price, stops, airport = heapq.heappop(minHeap)
+    #             if airport == dst:
+    #                 return price
+    #             if stops == k or pricePerNode[airport][stops + 1] < price:
+    #                 continue
+    #             pricePerNode[airport][stops + 1] = price
+    #             for d, p in adj.get(airport, []):
+    #                 next_price = price + p
+    #                 next_stops = stops + 1
+    #                 if pricePerNode[d][next_stops + 1] < next_price:
+    #                     continue
+    #                 heapq.heappush(minHeap, (price + p, stops + 1, d))
+            
+                
+    #         return -1
 
 
 if __name__ == "__main__":
