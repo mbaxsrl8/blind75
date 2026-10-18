@@ -8,3 +8,17 @@ Best Time to Buy and Sell Stock
 Longest Substring Without Repeating Characters
 Valid Parentheses
 Min Stack
+Binary Search
+Search a 2D Matrix
+Reverse Linked List
+Merge Two Sorted Linked Lists
+Linked List Cycle Detection
+Reorder Linked List
+Invert Binary Tree
+Maximum Depth of Binary Tree
+Diameter of Binary Tree
+Balanced Binary Tree
+Same Binary Tree
+Subtree of Another Tree
+Lowest Common Ancestor in Binary Search Tree
+Kth Largest Element in a Stream
