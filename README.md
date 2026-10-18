@@ -4,6 +4,7 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`min_stack.py`](./min_stack.py)
 - [`group_anagrams.py`](./group_anagrams.py)
 - [`two_sum.py`](./two_sum.py)
 - [`regular_expression_matching.py`](./regular_expression_matching.py)
