@@ -22,3 +22,7 @@ Same Binary Tree
 Subtree of Another Tree
 Lowest Common Ancestor in Binary Search Tree
 Kth Largest Element in a Stream
+Last Stone Weight
+K Closest Points to Origin
+Subsets
+Number of Islands
