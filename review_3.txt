@@ -26,3 +26,9 @@ Last Stone Weight
 K Closest Points to Origin
 Subsets
 Number of Islands
+Network Delay Time
+Climbing Stairs
+Min Cost Climbing Stairs
+House Robber
+Unique Paths
+Maximum Subarray
