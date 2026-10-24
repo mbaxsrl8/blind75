@@ -4,6 +4,8 @@ This index is the main organizer for the flat repo layout. Each problem can appe
 
 ## needs-review
 
+- [`longest_repeating_character_replacement.py`](./longest_repeating_character_replacement.py)
+- [`rotate_images.py`](./rotate_images.py)
 - [`min_stack.py`](./min_stack.py)
 - [`group_anagrams.py`](./group_anagrams.py)
 - [`two_sum.py`](./two_sum.py)
