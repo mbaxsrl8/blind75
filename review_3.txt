@@ -31,10 +31,12 @@ Same Binary Tree
 Subtree of Another Tree
 Lowest Common Ancestor in Binary Search Tree
 Binary Tree Level Order Traversal
+Binary Tree Right Side View
 Kth Largest Element in a Stream
 Last Stone Weight
 K Closest Points to Origin
 Kth Largest Element in an Array
+Task Scheduler
 Subsets
 Combination Sum
 Number of Islands
