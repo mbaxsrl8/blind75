@@ -39,18 +39,26 @@ Kth Largest Element in an Array
 Task Scheduler
 Subsets
 Combination Sum
+Combination Sum II
 Number of Islands
 Max Area of Island
+Clone Graph
 Network Delay Time
 Climbing Stairs
 Min Cost Climbing Stairs
 House Robber
 House Robber II
+Longest Palindromic Substring
+Palindromic Substrings
+Decode Ways
 Unique Paths
 Maximum Subarray
 Jump Game
+Jump Game II
 Insert Interval
+Merge Intervals
 Rotate Image
 Spiral Matrix
 Single Number
 Number of 1 Bits
+Counting Bits
