@@ -23,6 +23,7 @@ Linked List Cycle Detection
 Reorder Linked List
 Remove Nth Node From End of List
 Copy Linked List with Random Pointer
+Add Two Numbers
 Invert Binary Tree
 Maximum Depth of Binary Tree
 Diameter of Binary Tree
@@ -32,6 +33,7 @@ Subtree of Another Tree
 Lowest Common Ancestor in Binary Search Tree
 Binary Tree Level Order Traversal
 Binary Tree Right Side View
+Count Good Nodes in Binary Tree
 Kth Largest Element in a Stream
 Last Stone Weight
 K Closest Points to Origin
@@ -40,9 +42,13 @@ Task Scheduler
 Subsets
 Combination Sum
 Combination Sum II
+Permutations
 Number of Islands
 Max Area of Island
 Clone Graph
+Islands and Treasure
+Rotting Fruit
+Pacific Atlantic Water Flow
 Network Delay Time
 Climbing Stairs
 Min Cost Climbing Stairs
