@@ -24,6 +24,7 @@ Reorder Linked List
 Remove Nth Node From End of List
 Copy Linked List with Random Pointer
 Add Two Numbers
+Find the Duplicate Number
 Invert Binary Tree
 Maximum Depth of Binary Tree
 Diameter of Binary Tree
@@ -57,14 +58,17 @@ House Robber II
 Longest Palindromic Substring
 Palindromic Substrings
 Decode Ways
+Coin Change
 Unique Paths
 Maximum Subarray
 Jump Game
 Jump Game II
+Gas Station
 Insert Interval
 Merge Intervals
 Rotate Image
 Spiral Matrix
+Set Matrix Zeroes
 Single Number
 Number of 1 Bits
 Counting Bits
