@@ -71,6 +71,7 @@ Maximum Subarray
 Jump Game
 Jump Game II
 Gas Station
+Hand of Straights
 Insert Interval
 Merge Intervals
 Rotate Image
