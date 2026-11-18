@@ -36,6 +36,7 @@ Binary Tree Level Order Traversal
 Binary Tree Right Side View
 Count Good Nodes in Binary Tree
 Valid Binary Search Tree
+Kth Smallest Integer in BST
 Kth Largest Element in a Stream
 Last Stone Weight
 K Closest Points to Origin
@@ -46,6 +47,7 @@ Combination Sum
 Combination Sum II
 Permutations
 Subsets II
+Generate Parentheses
 Number of Islands
 Max Area of Island
 Clone Graph
@@ -54,6 +56,8 @@ Rotting Fruit
 Pacific Atlantic Water Flow
 Surrounded Regions
 Course Schedule
+Course Schedule II
+Graph Valid Tree
 Network Delay Time
 Climbing Stairs
 Min Cost Climbing Stairs
@@ -77,6 +81,8 @@ Merge Intervals
 Rotate Image
 Spiral Matrix
 Set Matrix Zeroes
+Non-Cyclical Number
 Single Number
 Number of 1 Bits
 Counting Bits
+Reverse Bits
