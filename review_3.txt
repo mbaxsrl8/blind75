@@ -64,6 +64,7 @@ Min Cost Climbing Stairs
 House Robber
 House Robber II
 Longest Palindromic Substring
+Partition Equal Subset Sum
 Palindromic Substrings
 Decode Ways
 Coin Change
