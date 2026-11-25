@@ -4,12 +4,14 @@ Two Sum
 Group Anagrams
 Top K Frequent Elements
 Encode and Decode Strings
+Products of Array Except Self
 Valid Palindrome
 Two Integer Sum II
 3Sum
 Best Time to Buy and Sell Stock
 Longest Substring Without Repeating Characters
 Longest Repeating Character Replacement
+Permutation in String
 Valid Parentheses
 Min Stack
 Evaluate Reverse Polish Notation
@@ -90,3 +92,4 @@ Single Number
 Number of 1 Bits
 Counting Bits
 Reverse Bits
+Missing Number
