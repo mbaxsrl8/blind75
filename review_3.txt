@@ -15,10 +15,12 @@ Permutation in String
 Valid Parentheses
 Min Stack
 Evaluate Reverse Polish Notation
+Daily Temperatures
 Binary Search
 Search a 2D Matrix
 Koko Eating Bananas
 Find Minimum in Rotated Sorted Array
+Search in Rotated Sorted Array
 Reverse Linked List
 Merge Two Sorted Linked Lists
 Linked List Cycle Detection
@@ -27,6 +29,7 @@ Remove Nth Node From End of List
 Copy Linked List with Random Pointer
 Add Two Numbers
 Find the Duplicate Number
+LRU Cache
 Invert Binary Tree
 Maximum Depth of Binary Tree
 Diameter of Binary Tree
@@ -39,6 +42,7 @@ Binary Tree Right Side View
 Count Good Nodes in Binary Tree
 Valid Binary Search Tree
 Kth Smallest Integer in BST
+Implement Trie (Prefix Tree)
 Kth Largest Element in a Stream
 Last Stone Weight
 K Closest Points to Origin
